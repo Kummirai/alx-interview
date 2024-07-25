@@ -1,0 +1,3 @@
+# ALX interview
+
+## Pascal triangle
